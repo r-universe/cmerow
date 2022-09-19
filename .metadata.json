@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "meteR",
+    "oncran": true
+  }
+]
