@@ -2,5 +2,9 @@
   {
     "package": "meteR",
     "oncran": true
+  },
+  {
+    "package": "rangeModelMetadata",
+    "oncran": true
   }
 ]

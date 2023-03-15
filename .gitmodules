@@ -8,3 +8,8 @@
 	url = https://github.com/cmerow/meter
 	shallow = true
 	registered = true
+[submodule "rangeModelMetadata"]
+	path = rangeModelMetadata
+	url = https://github.com/cmerow/rangemodelmetadata
+	shallow = true
+	registered = true
