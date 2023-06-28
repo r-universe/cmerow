@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "maskRangeR"]
 	path = maskRangeR
 	url = https://github.com/cran/maskRangeR
-	shallow = true
-	registered = true
 [submodule "meteR"]
 	path = meteR
 	url = https://github.com/cmerow/meter
-	shallow = true
-	registered = true
 [submodule "rangeModelMetadata"]
 	path = rangeModelMetadata
 	url = https://github.com/cmerow/rangemodelmetadata
-	shallow = true
-	registered = true
